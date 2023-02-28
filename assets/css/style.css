@@ -92,7 +92,7 @@ html {
   padding-top: 50%;
   position: relative;
   width: 100%;
-  background: url("/assets/img/chicago.jpg") top center / cover no-repeat;
+  background: url("../img/chicago.jpg") top center / cover no-repeat;
 }
 #slider .text-content {
   position: absolute;
@@ -115,6 +115,9 @@ html {
 }
 #content {
   position: absolute;
+  /* left: 50%;
+  display: block;
+  transform: translate(-50%); */
 }
 #content .content-section {
   text-align: center;
