@@ -115,10 +115,9 @@ html {
 }
 #content {
   position: absolute;
-
-  /* left: 50%;
+  left: 50%;
   display: block;
-  transform: translate(-50%); */
+  transform: translate(-50%);
 }
 #content .content-section {
   text-align: center;
